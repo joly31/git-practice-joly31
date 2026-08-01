@@ -14,3 +14,15 @@ It demonstrates:
 - Branches
 - Merge
 - Push to GitHub
+- Calculator
+- Python
+
+## Technologies
+
+- Python
+- Git
+- GitHub
+
+## Learning Objectives
+
+Practice version control using Git. 
